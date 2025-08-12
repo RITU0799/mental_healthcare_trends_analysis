@@ -37,8 +37,11 @@ This analysis aims to:
 ## 📌 Future Enhancements
 
 🌐 Deploy as an interactive dashboard using Streamlit or Plotly Dash.
+
 🔍 Integrate real-time mental health care statistics from public APIs.
+
 🧠 Apply forecasting models (e.g., ARIMA, Prophet) for predicting future trends.
+
 📊 Create an interactive Power BI / Tableau dashboard for non-technical stakeholders.
 
 ---
