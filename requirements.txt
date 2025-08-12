@@ -1,36 +1,47 @@
 # Requirements
 
-## **Libraries and Functions**
+## Libraries and Functions
 
-1. **Pandas:**
-   - `read_csv()`: Load datasets.
-   - `dropna()`: Handle missing values.
-   - `groupby()`: Aggregate data by specific categories.
-   - `merge()`: Combine datasets.
+1. Pandas – Data Handling & Manipulation
 
-2. **NumPy:**
-   - `array()`: Handle numerical operations.
-   - `mean()`: Compute averages.
-   - `std()`: Calculate standard deviation.
+read_csv() – Load datasets from CSV files.
+dropna() – Handle missing values efficiently.
+groupby() – Aggregate data by specific categories.
+merge() – Combine multiple datasets for analysis.
 
-3. **Matplotlib:**
-   - `plot()`: Create line plots.
-   - `bar()`: Generate bar charts.
-   - `show()`: Display visualizations.
 
-4. **Seaborn:**
-   - `heatmap()`: Generate heatmaps for visual analysis.
-   - `barplot()`: Create bar plots for categorical comparisons.
-   - `lineplot()`: Visualize trends over time.
+2. NumPy – Numerical Computing
 
-5. **Scikit-learn:**
-   - `train_test_split()`: Split data into training and testing sets.
-   - `LinearRegression()`: Perform regression analysis.
-   - `metrics.mean_squared_error`: Evaluate model accuracy.
+array() – Work with numerical data structures.
+mean() – Calculate averages.
+std() – Compute standard deviation for variability analysis.
 
-6. **Statsmodels:**
-   - `OLS()`: Conduct Ordinary Least Squares regression.
-   - `summary()`: Provide detailed statistical summaries.
-   - `conf_int()`: Compute confidence intervals.
+
+3. Matplotlib – Data Visualization (Static)
+
+plot() – Generate line plots.
+bar() – Create bar charts.
+show() – Render and display visualizations.
+
+
+4. Seaborn – Advanced & Aesthetic Visualizations
+
+heatmap() – Display correlation or intensity maps.
+barplot() – Visualize categorical comparisons.
+lineplot() – Show trends over time.
+
+
+5. Scikit-learn – Machine Learning & Modeling
+
+train_test_split() – Divide data into training and testing sets.
+LinearRegression() – Perform regression modeling.
+metrics.mean_squared_error – Evaluate model accuracy.
+
+
+6. Statsmodels – Statistical Analysis
+
+OLS() – Conduct Ordinary Least Squares regression.
+summary() – Generate detailed model summaries.
+conf_int() – Calculate confidence intervals.
 
 ---
