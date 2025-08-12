@@ -34,12 +34,18 @@ This analysis aims to:
 
 ---
 
+## 📌 Future Enhancements
 
+🌐 Deploy as an interactive dashboard using Streamlit or Plotly Dash.
+🔍 Integrate real-time mental health care statistics from public APIs.
+🧠 Apply forecasting models (e.g., ARIMA, Prophet) for predicting future trends.
+📊 Create an interactive Power BI / Tableau dashboard for non-technical stakeholders.
 
 ---
 
 ## 📦 Installation & Setup
 
 ```bash
-git clone 
+git clone https://github.com/RITU0799/mental_healthcare_trends_analysis.git
 cd mental-healthcare-analysis
+
